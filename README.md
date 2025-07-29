@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 🙋🏻‍♀️ 
 
 <!--
 **jacquelinel33/jacquelinel33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello, I'm Jacqueline. I'm an aspiring data analyst with a background in retail buying and SaaS project management, transitioning into analytics through self-directed learning. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Projects
+Welcome to my portfolio! Here are some highlights of my analytical work:
+More projects coming soon as I continue building my analytics portfolio!
+
+🛠️ Tools & Technologies
+Analytics & Visualization: SQL, Tableau, Excel, Python (Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn), R (ggplot2)
+Development & Environments: JupyterLab, RStudio, VS Code, GitHub, Kaggle
+Databases: PostgreSQL
+Project Management: JIRA, Trello, Zendesk, Salesforce, Confluence, Slack
+
+👋🏻 Connect with Me
+💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/jacquelinelee3/)
