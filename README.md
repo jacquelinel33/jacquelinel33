@@ -13,7 +13,7 @@ More projects coming soon as I continue building my analytics portfolio!
 Analytics & Visualization: SQL, Tableau, Excel, Python (Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn), R (ggplot2)
 Development & Environments: JupyterLab, RStudio, VS Code, GitHub, Kaggle
 Databases: PostgreSQL
-Project Management: JIRA, Trello, Zendesk, Salesforce, Confluence, Slack
+Collaboration & Workflow: JIRA, Zendesk, Salesforce, Confluence
 
 👋🏻 Connect with Me
 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/jacquelinelee3/)
