@@ -1,8 +1,5 @@
 ## Hi there 🙋🏻‍♀️ 
 
-<!--
-**jacquelinel33/jacquelinel33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hello, I'm Jacqueline. I'm an aspiring data analyst with a background in retail buying and SaaS project management, transitioning into analytics through self-directed learning. 
 
 📚 Projects
