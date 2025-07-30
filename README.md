@@ -3,7 +3,7 @@
 Hello, I'm Jacqueline. I'm an aspiring data analyst with a background in retail buying and SaaS project management, transitioning into analytics through self-directed learning. 
 <br> 
 <br>
-### 📚 Projects
+### 📚 Projects (In Progress)
 *More projects coming soon as I continue building my analytics portfolio!*    
 **R**  
 [Cyclistic Case Study](https://github.com/jacquelinel33/Cyclistic-Case-Study-For-Data-Analysis)
