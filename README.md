@@ -5,6 +5,7 @@ Hello, I'm Jacqueline. I'm an aspiring data analyst with a background in retail 
 <br>
 ### 📚 Projects (In Progress)
 *More projects coming soon as I continue building my analytics portfolio!*    
+
 **R**  
 - [Cyclistic Case Study](https://github.com/jacquelinel33/Cyclistic-Case-Study-For-Data-Analysis)
 
@@ -14,7 +15,7 @@ Hello, I'm Jacqueline. I'm an aspiring data analyst with a background in retail 
 **SQL**  
 - [8 Week SQL Challenge](https://github.com/jacquelinel33/8-Week-SQL-Challenge/tree/main)
 <br>
-<br>
+
 ### 🛠️ Tools & Technologies  
 **Analytics & Visualization:** SQL, Tableau, Excel, Python (Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn), R (ggplot2)  
 **Development & Environments:** JupyterLab, RStudio, VS Code, GitHub, Kaggle  
