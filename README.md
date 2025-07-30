@@ -14,6 +14,9 @@ Hello, I'm Jacqueline. I'm an aspiring data analyst with a background in retail 
 
 **SQL**  
 - [8 Week SQL Challenge](https://github.com/jacquelinel33/8-Week-SQL-Challenge/tree/main)
+
+**Tableau**
+- [Superstore Sales Dashboard](https://github.com/jacquelinel33/Superstore-Tableau-Dashboard)
 <br>
 
 ### 🛠️ Tools & Technologies  
