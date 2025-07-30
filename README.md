@@ -10,6 +10,9 @@ Hello, I'm Jacqueline. I'm an aspiring data analyst with a background in retail 
 
 **Python**  
 [Python for Data Analysis Project Solutions](https://github.com/jacquelinel33/Python-Data-Analysis-Practice)
+
+**SQL**
+[8 Week SQL Challenge](https://github.com/jacquelinel33/8-Week-SQL-Challenge/tree/main)
 <br>
 <br>
 ### 🛠️ Tools & Technologies  
