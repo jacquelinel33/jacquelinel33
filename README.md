@@ -21,6 +21,7 @@ Hello, I'm Jacqueline. I'm an aspiring data analyst with a background in retail 
 
 ### 🛠️ Tools & Technologies  
 **Analytics & Visualization:** SQL, Tableau, Excel, Python (Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn), R (ggplot2)  
+**Web Development:** Javascript, ReactJS, HTML, CSS  
 **Development & Environments:** JupyterLab, RStudio, VS Code, GitHub, Kaggle  
 **Databases:** PostgreSQL  
 **Collaboration & Workflow:** JIRA, Zendesk, Salesforce, Confluence  
