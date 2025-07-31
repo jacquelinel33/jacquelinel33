@@ -4,16 +4,16 @@ Hello, I'm Jacqueline. I'm an aspiring data analyst with a background in retail 
 <br> 
 <br>
 ### 📚 Projects (In Progress)
-*More projects coming soon as I continue building my analytics portfolio!*    
+*More projects coming soon as I continue building my analytics portfolio!*  
+
+**SQL**  
+- [8 Week SQL Challenge](https://github.com/jacquelinel33/8-Week-SQL-Challenge/tree/main)
 
 **R**  
 - [Cyclistic Case Study](https://github.com/jacquelinel33/Cyclistic-Case-Study-For-Data-Analysis)
 
 **Python**  
 - [Python for Data Analysis Project Solutions](https://github.com/jacquelinel33/Python-Data-Analysis-Practice)
-
-**SQL**  
-- [8 Week SQL Challenge](https://github.com/jacquelinel33/8-Week-SQL-Challenge/tree/main)
 
 **Tableau**
 - [Superstore Sales Dashboard](https://github.com/jacquelinel33/Superstore-Tableau-Dashboard)
